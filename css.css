@@ -3,11 +3,15 @@
     margin:0;
 }
 
-.qqq{
-    height:100vh;
-    background-color : green;
+.navig{
+    position: fixed;
+    top: 0;
+    background-color: yellow;
+    width: 100%;
+    text-align: center;
 }
 
 .nat{
+    height: 100px;
     background-color: aqua;
 }
